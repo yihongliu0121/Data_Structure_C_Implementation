@@ -1,0 +1,10 @@
+56 units are spent, first time push 8 units until it hits the double of 8—16; second time push 16 units, third times push 32 units until it hits the double of 32—64.
+
+then, 8+16+32=56 units
+
+the complexity is O(1)+;
+
+
+8+10+12+14+…….n; when n=16; 8+10+12+14+16=60 units are spent, when n=32, 8+10+…..+32=260, 260 units are spent. 
+
+the complexity is O(n)
